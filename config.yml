@@ -3,6 +3,10 @@ languageCode: en-us
 title: Lazat Codes
 theme: github.com/adityatelange/hugo-PaperMod
 
+module:
+  imports:
+    path: github.com/adityatelange/hugo-PaperMod
+    disabled: false
 
 paginate: 5
 
