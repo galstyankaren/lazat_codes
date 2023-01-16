@@ -1,7 +1,7 @@
 baseURL: https://lazat.codes/
 languageCode: en-us
 title: Lazat Codes
-theme: "PaperMod"
+theme: github.com/adityatelange/hugo-PaperMod
 
 
 paginate: 5
